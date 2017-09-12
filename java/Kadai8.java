@@ -11,7 +11,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class main{
+public class Kadai8{
 	static final int MAXCOUNT = 9;//9回以内に答えを出すという前提のため
 	public static void main(String args[])throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

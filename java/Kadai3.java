@@ -2,8 +2,8 @@
 /*
  * 数字を３回入力し、最も大きい数を返すプログラム。
  * kを押すと終了します。
- *Author:しもん	date：20170901
- * */
+ * Author:しもん	date：20170901 
+ */
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 

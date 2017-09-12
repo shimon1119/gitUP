@@ -1,13 +1,11 @@
 /*
- *
  *		図を表示する。
  *		起動時に第一引数にp1かp2、第二引数にnoraml、reverseのどちらかが必要。
  *
  *		Author:しもん	date：20160902
- *
  */
 
-public class main {
+public class Kadai14 {
 	public static void main(String[] args) {
 		StringBuilder blanks = new StringBuilder("                 ");// normal時、出力する文字列。
 		StringBuilder dots = new StringBuilder("*****************");// reverse時、出力する文字列。
